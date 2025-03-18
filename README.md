@@ -74,6 +74,12 @@ Once the app is running:
 
 Extracted tables are saved as Excel files in the `output/` folder, with each sheet representing a different table from the processed PDF.
 
+### Sample Extracted Tables:
+
+![Example Output 1](path/to/image1.png)
+
+![Example Output 2](path/to/image2.png)
+
 ## 🤝 Contributions
 
 Contributions and enhancements are always welcome! Feel free to fork this repository and improve the table extraction logic.
