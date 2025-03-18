@@ -76,9 +76,9 @@ Extracted tables are saved as Excel files in the `output/` folder, with each she
 
 ### Sample Extracted Tables:
 
-![Example Output 1](path/to/image1.png)
+![Example Output 1](images/pdf_to_table.png)
 
-![Example Output 2](path/to/image2.png)
+![Example Output 2](images/pdf_to_table2.png)
 
 ## 🤝 Contributions
 
